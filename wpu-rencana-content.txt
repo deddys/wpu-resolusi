@@ -4,9 +4,11 @@ RENCANA KONTEN WPU
   * Framework Javascript
     * Vue
     * React
+    * Agular
 - Struktur Data Dasar 
 - PHP Framework 
    * Laravel
+   * CI
 - Interview
 - Vlogs
 - Phyton
